@@ -63,6 +63,11 @@ public:
     
     friend Complex operator ^ (const Complex& , int &);
     
+    // Unary overloaded operators
+    
+    Complex operator + ();
+    Complex operator - ();
+    
     friend std::istream& operator >> (std::istream &cin, Complex &c){
         cin >> c.m_real >> c.m_imag;
         return cin;

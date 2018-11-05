@@ -46,6 +46,21 @@ double Complex::getImag()
     return m_imag;
 }
 
+// Unary overloaded operators
+
+Complex Complex::operator + ()
+{
+    return *this;
+}
+
+Complex Complex::operator - ()
+{
+    this->m_real = m_real * (-1);
+    this->m_imag = m_imag * (-1);
+    
+    return *this;
+}
+
 // Binary overloaded operators
 
 Complex operator - (const Complex &a, const Complex &b)
