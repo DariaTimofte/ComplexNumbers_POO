@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>19F7D22F-D0AA-4948-BB50-933DA303CA39</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>19F7D22F-D0AA-4948-BB50-933DA303CA39.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ComplexNumbers_POO project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ComplexNumbers_POO</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>timeStartedRecording</key>
+			<real>563129165.29786694</real>
+			<key>timeStoppedRecording</key>
+			<real>563129165.99720705</real>
+			<key>title</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>uniqueIdentifier</key>
+			<string>19F7D22F-D0AA-4948-BB50-933DA303CA39</string>
+		</dict>
+		<key>1A888BC8-4CCF-4143-A671-544139221BB7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1A888BC8-4CCF-4143-A671-544139221BB7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ComplexNumbers_POO project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ComplexNumbers_POO</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>timeStartedRecording</key>
+			<real>563131407.91740596</real>
+			<key>timeStoppedRecording</key>
+			<real>563131409.12520301</real>
+			<key>title</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>uniqueIdentifier</key>
+			<string>1A888BC8-4CCF-4143-A671-544139221BB7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
