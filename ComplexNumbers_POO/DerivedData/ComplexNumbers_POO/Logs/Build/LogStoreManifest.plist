@@ -64,6 +64,180 @@
 			<key>uniqueIdentifier</key>
 			<string>1A888BC8-4CCF-4143-A671-544139221BB7</string>
 		</dict>
+		<key>4F6530C3-67C9-4341-B9BC-D3550E1637F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4F6530C3-67C9-4341-B9BC-D3550E1637F4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ComplexNumbers_POO project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ComplexNumbers_POO</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>timeStartedRecording</key>
+			<real>563138651.92608297</real>
+			<key>timeStoppedRecording</key>
+			<real>563138652.902807</real>
+			<key>title</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>uniqueIdentifier</key>
+			<string>4F6530C3-67C9-4341-B9BC-D3550E1637F4</string>
+		</dict>
+		<key>5FCE8CB9-029B-444B-8073-2110EF1A9469</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5FCE8CB9-029B-444B-8073-2110EF1A9469.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ComplexNumbers_POO project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ComplexNumbers_POO</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>timeStartedRecording</key>
+			<real>563138683.64085603</real>
+			<key>timeStoppedRecording</key>
+			<real>563138684.43261802</real>
+			<key>title</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>uniqueIdentifier</key>
+			<string>5FCE8CB9-029B-444B-8073-2110EF1A9469</string>
+		</dict>
+		<key>600F4605-6BB8-46F0-BCC2-80A0F46FFE80</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>600F4605-6BB8-46F0-BCC2-80A0F46FFE80.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ComplexNumbers_POO project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ComplexNumbers_POO</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>timeStartedRecording</key>
+			<real>563138766.15883303</real>
+			<key>timeStoppedRecording</key>
+			<real>563138767.00065506</real>
+			<key>title</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>uniqueIdentifier</key>
+			<string>600F4605-6BB8-46F0-BCC2-80A0F46FFE80</string>
+		</dict>
+		<key>B50D6E1A-1C79-44C8-8363-620B6727CB50</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B50D6E1A-1C79-44C8-8363-620B6727CB50.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ComplexNumbers_POO project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ComplexNumbers_POO</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>timeStartedRecording</key>
+			<real>563138303.81466997</real>
+			<key>timeStoppedRecording</key>
+			<real>563138305.41229498</real>
+			<key>title</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>uniqueIdentifier</key>
+			<string>B50D6E1A-1C79-44C8-8363-620B6727CB50</string>
+		</dict>
+		<key>B6E6A94F-A545-4DD1-8E9F-674FF51532F8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B6E6A94F-A545-4DD1-8E9F-674FF51532F8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ComplexNumbers_POO project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ComplexNumbers_POO</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>timeStartedRecording</key>
+			<real>563138693.81328404</real>
+			<key>timeStoppedRecording</key>
+			<real>563138694.65733397</real>
+			<key>title</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>uniqueIdentifier</key>
+			<string>B6E6A94F-A545-4DD1-8E9F-674FF51532F8</string>
+		</dict>
+		<key>EF2C0BE8-71FF-400C-8D0E-DA75BB33C5A8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF2C0BE8-71FF-400C-8D0E-DA75BB33C5A8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ComplexNumbers_POO project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ComplexNumbers_POO</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>timeStartedRecording</key>
+			<real>563138565.95703304</real>
+			<key>timeStoppedRecording</key>
+			<real>563138566.85699403</real>
+			<key>title</key>
+			<string>Build ComplexNumbers_POO</string>
+			<key>uniqueIdentifier</key>
+			<string>EF2C0BE8-71FF-400C-8D0E-DA75BB33C5A8</string>
+		</dict>
 	</dict>
 </dict>
 </plist>

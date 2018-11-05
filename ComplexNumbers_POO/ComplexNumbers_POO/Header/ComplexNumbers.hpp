@@ -16,11 +16,24 @@ public:
     void setImag(double);
     double getImag ();
     
+    // Composed overloaded operators
+    
     Complex& operator = (const Complex &);
     Complex& operator = (const double &);
     
     Complex& operator += (const Complex &);
     Complex& operator += (const double &);
+    
+    Complex& operator -= (const Complex &);
+    Complex& operator -= (const double &);
+    
+    Complex& operator *= (const Complex &);
+    Complex& operator *= (const double &);
+    
+    Complex& operator /= (const Complex &);
+    Complex& operator /= (const double &);
+    
+    // Relational operators
     
     friend bool operator == (const Complex&, const Complex&);
     friend bool operator == (const Complex&, double);
@@ -30,9 +43,25 @@ public:
     friend bool operator != (const Complex&, double );
     friend bool operator != (double , const Complex&);
     
-    friend Complex operator + (const Complex &a, const Complex &b);
-    friend Complex operator - (const Complex &a, const Complex &b);
+    // Binary overloaded operators
     
+    friend Complex operator + (const Complex &, const Complex &);
+    friend Complex operator + (const Complex &, const double &);
+    friend Complex operator + (const double &, const Complex &);
+    
+    friend Complex operator - (const Complex &, const Complex &);
+    friend Complex operator - (const Complex &, const double &);
+    friend Complex operator - (const double &, const Complex &);
+    
+    friend Complex operator * (const Complex &, const Complex &);
+    friend Complex operator * (const Complex &, const double &);
+    friend Complex operator * (const double &, const Complex &);
+    
+    friend Complex operator / (const Complex &, const Complex &);
+    friend Complex operator / (const Complex &, const double &);
+    friend Complex operator / (const double &, const Complex &);
+    
+    friend Complex operator ^ (const Complex& , int &);
     
     friend std::istream& operator >> (std::istream &cin, Complex &c){
         cin >> c.m_real >> c.m_imag;
