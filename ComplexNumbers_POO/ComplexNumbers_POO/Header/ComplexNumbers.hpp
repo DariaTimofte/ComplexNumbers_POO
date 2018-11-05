@@ -1,4 +1,6 @@
 #include <iostream>
+#include <string>
+#include <cstring>
 
 class Complex
 {
@@ -70,7 +72,11 @@ public:
     
     // toString
     
-    std::string toString(Complex &);
+    std::string toString();
+    
+    // std::string overloading
+    
+    operator std::string() const;
     
     // Conjugate
     
@@ -89,5 +95,7 @@ public:
     
     double modulus();
     
+    // Square root
     
+    Complex& squareRoot(const Complex &, int);
 };

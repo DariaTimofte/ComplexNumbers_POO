@@ -319,18 +319,18 @@ bool operator != (double d, const Complex &c) {
 
 // toString
 
-std::string Complex::toString(Complex &c)
+std::string Complex::toString()
 {
     std::string s ="";
-    if(c.m_real != 0)
+    if(this->m_real != 0)
     {
-        s += std::to_string(c.m_real);
+        s += std::to_string(this->m_real);
     }
-    if(c.m_imag != 0)
+    if(this->m_imag != 0)
     {
-        if(c.m_imag > 0)
+        if(this->m_imag > 0)
         {
-            if(c.m_real != 0)
+            if(this->m_real != 0)
             {
                 s += "+i";
             }
@@ -338,16 +338,25 @@ std::string Complex::toString(Complex &c)
             {
                 s += "-i";
             }
-            s += std::to_string(c.m_imag);
+            s += std::to_string(this->m_imag);
         }
         else
         {
             s += "-i";
-            s += std::to_string(abs(c.m_imag));
+            s += std::to_string(abs(this->m_imag));
         }
     }
     return s;
 }
+
+// std::string overloading
+
+Complex::operator std::string() const
+{
+    Complex c(*this);
+    return c.toString();
+}
+
 
 // Conjugate
 
@@ -367,6 +376,20 @@ double Complex::modulus()
     return sqrt(this->m_real * this->m_real + this->m_imag * this->m_imag);
 }
 
+// Square root
+
+Complex& Complex::squareRoot(const Complex &c, int n)
+{
+    Complex c1(c);
+    
+    double phi = atan(c.m_imag / c.m_real), r = c1.modulus();
+    
+    Complex c2(0,0);
+    c2.m_real = sqrt(r) * cos((phi + 2 * n * M_PI) / 2);
+    c2.m_imag = sqrt(r) * sin((phi + 2 * n * M_PI) / 2);
+    
+    return c2;
+}
 
 
 
