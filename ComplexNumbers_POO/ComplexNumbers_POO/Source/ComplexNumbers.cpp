@@ -8,6 +8,8 @@
 
 #include "ComplexNumbers.hpp"
 #include <iostream>
+#include <math.h>
+
 Complex::Complex()
 {
     m_real=0;
@@ -314,3 +316,60 @@ bool operator != (double d, const Complex &c) {
     else
         return false;
 }
+
+// toString
+
+std::string Complex::toString(Complex &c)
+{
+    std::string s ="";
+    if(c.m_real != 0)
+    {
+        s += std::to_string(c.m_real);
+    }
+    if(c.m_imag != 0)
+    {
+        if(c.m_imag > 0)
+        {
+            if(c.m_real != 0)
+            {
+                s += "+i";
+            }
+            else
+            {
+                s += "-i";
+            }
+            s += std::to_string(c.m_imag);
+        }
+        else
+        {
+            s += "-i";
+            s += std::to_string(abs(c.m_imag));
+        }
+    }
+    return s;
+}
+
+// Conjugate
+
+Complex& Complex::Conjugate()
+{
+    Complex c(*this);
+    
+    c.m_imag = - c.m_imag;
+    
+    return c;
+}
+
+// Modulus
+
+double Complex::modulus()
+{
+    return sqrt(this->m_real * this->m_real + this->m_imag * this->m_imag);
+}
+
+
+
+
+
+
+

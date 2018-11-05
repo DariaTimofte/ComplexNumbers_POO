@@ -68,6 +68,14 @@ public:
     Complex operator + ();
     Complex operator - ();
     
+    // toString
+    
+    std::string toString(Complex &);
+    
+    // Conjugate
+    
+    Complex& Conjugate();
+    
     friend std::istream& operator >> (std::istream &cin, Complex &c){
         cin >> c.m_real >> c.m_imag;
         return cin;
@@ -76,6 +84,10 @@ public:
         cout << c.m_real << c.m_imag;
         return cout;
     }
+    
+    // Modulus
+    
+    double modulus();
     
     
 };
