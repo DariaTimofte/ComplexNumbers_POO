@@ -9,6 +9,10 @@
 #include "ComplexNumbers.hpp"
 #include <iostream>
 #include <math.h>
+#include <pch.h>
+
+
+// Constructors
 
 Complex::Complex()
 {
@@ -27,6 +31,8 @@ Complex::Complex(const Complex &c2) //Copy constructor
     m_real = c2.m_real;
     m_imag = c2.m_imag;
 }
+
+// Getters and setters
 
 void Complex::setReal(double m_r)
 {
@@ -389,6 +395,29 @@ Complex& Complex::squareRoot(const Complex &c, int n)
     c2.m_imag = sqrt(r) * sin((phi + 2 * n * M_PI) / 2);
     
     return c2;
+}
+
+std::istream& operator >> (std::istream &in, Complex &c) 
+{
+    std::string s;
+    char ch;
+    in.get(ch);
+    while (ch != '\n' && !in.eof()) {
+        s += ch;
+        in.get(ch);
+    }
+    Complex aux(s); //aux = temporary variable
+    c.m_real = aux.m_real;
+    c.m_imag = aux.m_imag;
+    
+    return in;
+}
+
+std::ostream & operator<<(std::ostream &out, const Complex &c)
+{
+    Complex aux(c);
+    out << aux.toString(); //aux = temporary variable
+    return out;
 }
 
 

@@ -9,9 +9,12 @@ private:
     
 public:
    
+    // Constructors
     Complex();
     Complex(double m_r = 0, double m_im = 0);
     Complex(const Complex &);
+    
+    // Getters and setters
     
     void setReal(double);
     double getReal();
@@ -82,15 +85,6 @@ public:
     
     Complex& Conjugate();
     
-    friend std::istream& operator >> (std::istream &cin, Complex &c){
-        cin >> c.m_real >> c.m_imag;
-        return cin;
-    }
-    friend std::ostream& operator << (std::ostream &cout, Complex &c){
-        cout << c.m_real << c.m_imag;
-        return cout;
-    }
-    
     // Modulus
     
     double modulus();
@@ -98,4 +92,10 @@ public:
     // Square root
     
     Complex& squareRoot(const Complex &, int);
+    
+    // Read and write operators overloading
+    
+    friend std::istream& operator >> (std::istream &in, Complex &c);
+    friend std::ostream& operator << (std::ostream &out, const Complex &c);
+    
 };
