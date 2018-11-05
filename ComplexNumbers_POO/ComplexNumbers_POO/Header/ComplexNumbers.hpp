@@ -12,6 +12,7 @@ public:
     // Constructors
     Complex();
     Complex(double m_r = 0, double m_im = 0);
+    Complex(std::string);
     Complex(const Complex &);
     
     // Getters and setters

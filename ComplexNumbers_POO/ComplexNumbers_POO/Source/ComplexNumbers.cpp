@@ -9,8 +9,6 @@
 #include "ComplexNumbers.hpp"
 #include <iostream>
 #include <math.h>
-#include <pch.h>
-
 
 // Constructors
 
