@@ -45,16 +45,16 @@ int main() {
     c.operator+();
     c.operator-();
     
-    std::cout << complex.operator*=(c1);
-    std::cout << complex.operator*=(3.0);
-    std::cout << complex.operator=(c1);
-    std::cout << complex.operator=(2.0);
-    std::cout << complex.operator+=(c);
-    std::cout << complex.operator+=(4.0);
-    std::cout << complex.operator-=(c);
-    std::cout << complex.operator-=(3.0);
-    std::cout << complex.operator/=(c1);
-    std::cout << complex.operator/=(2.0);
+    complex.operator*=(c1);
+    complex.operator*=(3.0);
+    complex.operator=(c1);
+    complex.operator=(2.0);
+    complex.operator+=(c);
+    complex.operator+=(4.0);
+    complex.operator-=(c);
+    complex.operator-=(3.0);
+    complex.operator/=(c1);
+    complex.operator/=(2.0);
     
     return 0;
 }
