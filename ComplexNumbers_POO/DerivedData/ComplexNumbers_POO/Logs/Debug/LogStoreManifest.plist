@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>0FE62D8D-6885-4182-9C24-6E6C318E64D4</key>
+		<key>02A9EF79-BE2B-45C2-B684-F9305F6ED982</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>0FE62D8D-6885-4182-9C24-6E6C318E64D4.xcactivitylog</string>
+			<string>02A9EF79-BE2B-45C2-B684-F9305F6ED982.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,15 +27,15 @@
 			<key>signature</key>
 			<string>Debug ComplexNumbers_POO</string>
 			<key>timeStartedRecording</key>
-			<real>563150663.40235102</real>
+			<real>563181950.65363896</real>
 			<key>timeStoppedRecording</key>
-			<real>563150665.56044698</real>
+			<real>563182062.48961997</real>
 			<key>title</key>
 			<string>Debug ComplexNumbers_POO</string>
 			<key>uniqueIdentifier</key>
-			<string>0FE62D8D-6885-4182-9C24-6E6C318E64D4</string>
+			<string>02A9EF79-BE2B-45C2-B684-F9305F6ED982</string>
 		</dict>
-		<key>147EEE24-0DDA-48EB-A66C-1AA5E0E268C4</key>
+		<key>1E35B32E-26FF-4378-A26C-2647ECFD7FEE</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -44,7 +44,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>147EEE24-0DDA-48EB-A66C-1AA5E0E268C4.xcactivitylog</string>
+			<string>1E35B32E-26FF-4378-A26C-2647ECFD7FEE.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>schemeIdentifier-containerName</key>
@@ -56,15 +56,15 @@
 			<key>signature</key>
 			<string>Debug ComplexNumbers_POO</string>
 			<key>timeStartedRecording</key>
-			<real>563138566.84270704</real>
+			<real>563182410.10945296</real>
 			<key>timeStoppedRecording</key>
-			<real>563138573.35387897</real>
+			<real>563182799.11606801</real>
 			<key>title</key>
 			<string>Debug ComplexNumbers_POO</string>
 			<key>uniqueIdentifier</key>
-			<string>147EEE24-0DDA-48EB-A66C-1AA5E0E268C4</string>
+			<string>1E35B32E-26FF-4378-A26C-2647ECFD7FEE</string>
 		</dict>
-		<key>1D83ED7E-3915-49BA-8710-B3E93392A3CC</key>
+		<key>3509E391-AD0E-4099-8204-4C6C02D3E9D1</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -73,7 +73,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1D83ED7E-3915-49BA-8710-B3E93392A3CC.xcactivitylog</string>
+			<string>3509E391-AD0E-4099-8204-4C6C02D3E9D1.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>schemeIdentifier-containerName</key>
@@ -85,187 +85,13 @@
 			<key>signature</key>
 			<string>Debug ComplexNumbers_POO</string>
 			<key>timeStartedRecording</key>
-			<real>563150655.86039305</real>
+			<real>563182998.75254595</real>
 			<key>timeStoppedRecording</key>
-			<real>563150657.85791099</real>
+			<real>563183540.49927497</real>
 			<key>title</key>
 			<string>Debug ComplexNumbers_POO</string>
 			<key>uniqueIdentifier</key>
-			<string>1D83ED7E-3915-49BA-8710-B3E93392A3CC</string>
-		</dict>
-		<key>227B640A-BDC0-4A4C-99E2-FCBFC4116C9A</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>227B640A-BDC0-4A4C-99E2-FCBFC4116C9A.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>ComplexNumbers_POO project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ComplexNumbers_POO</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>timeStartedRecording</key>
-			<real>563138694.586061</real>
-			<key>timeStoppedRecording</key>
-			<real>563138696.57905495</real>
-			<key>title</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>uniqueIdentifier</key>
-			<string>227B640A-BDC0-4A4C-99E2-FCBFC4116C9A</string>
-		</dict>
-		<key>36078BEE-6FCE-4C86-A59E-8F3127774FD1</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>36078BEE-6FCE-4C86-A59E-8F3127774FD1.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>ComplexNumbers_POO project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ComplexNumbers_POO</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>timeStartedRecording</key>
-			<real>563139980.34997499</real>
-			<key>timeStoppedRecording</key>
-			<real>563139982.32545304</real>
-			<key>title</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>uniqueIdentifier</key>
-			<string>36078BEE-6FCE-4C86-A59E-8F3127774FD1</string>
-		</dict>
-		<key>4BCF43BB-E274-4EFB-B4BE-4DB4C3AE3EC4</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>4BCF43BB-E274-4EFB-B4BE-4DB4C3AE3EC4.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>ComplexNumbers_POO project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ComplexNumbers_POO</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>timeStartedRecording</key>
-			<real>563150651.58288705</real>
-			<key>timeStoppedRecording</key>
-			<real>563150653.72322094</real>
-			<key>title</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>uniqueIdentifier</key>
-			<string>4BCF43BB-E274-4EFB-B4BE-4DB4C3AE3EC4</string>
-		</dict>
-		<key>54005FA9-8AEE-43B6-B142-9920F2C77D2B</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>54005FA9-8AEE-43B6-B142-9920F2C77D2B.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>ComplexNumbers_POO project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ComplexNumbers_POO</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>timeStartedRecording</key>
-			<real>563138652.89079404</real>
-			<key>timeStoppedRecording</key>
-			<real>563138654.97526896</real>
-			<key>title</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>uniqueIdentifier</key>
-			<string>54005FA9-8AEE-43B6-B142-9920F2C77D2B</string>
-		</dict>
-		<key>54D71C67-65E1-474D-A971-F82C0CA30834</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>54D71C67-65E1-474D-A971-F82C0CA30834.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>ComplexNumbers_POO project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ComplexNumbers_POO</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>timeStartedRecording</key>
-			<real>563149602.24659204</real>
-			<key>timeStoppedRecording</key>
-			<real>563149604.23388505</real>
-			<key>title</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>uniqueIdentifier</key>
-			<string>54D71C67-65E1-474D-A971-F82C0CA30834</string>
-		</dict>
-		<key>8E6B4B10-0539-4603-83D9-3EF29EC85BA4</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>8E6B4B10-0539-4603-83D9-3EF29EC85BA4.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>ComplexNumbers_POO project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ComplexNumbers_POO</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>timeStartedRecording</key>
-			<real>563140115.505862</real>
-			<key>timeStoppedRecording</key>
-			<real>563140117.38617897</real>
-			<key>title</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>uniqueIdentifier</key>
-			<string>8E6B4B10-0539-4603-83D9-3EF29EC85BA4</string>
+			<string>3509E391-AD0E-4099-8204-4C6C02D3E9D1</string>
 		</dict>
 		<key>AAF87D70-217A-4E69-A5F8-DF61852D8AD3</key>
 		<dict>
@@ -296,7 +122,7 @@
 			<key>uniqueIdentifier</key>
 			<string>AAF87D70-217A-4E69-A5F8-DF61852D8AD3</string>
 		</dict>
-		<key>BA6B2375-E253-479C-88A8-418476DF8F83</key>
+		<key>DAA6BEFA-FC5E-4673-998A-4F5F57ECF00C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -305,7 +131,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>BA6B2375-E253-479C-88A8-418476DF8F83.xcactivitylog</string>
+			<string>DAA6BEFA-FC5E-4673-998A-4F5F57ECF00C.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>schemeIdentifier-containerName</key>
@@ -317,100 +143,13 @@
 			<key>signature</key>
 			<string>Debug ComplexNumbers_POO</string>
 			<key>timeStartedRecording</key>
-			<real>563138766.923594</real>
+			<real>563182348.898839</real>
 			<key>timeStoppedRecording</key>
-			<real>563138768.91273904</real>
+			<real>563182410.07939398</real>
 			<key>title</key>
 			<string>Debug ComplexNumbers_POO</string>
 			<key>uniqueIdentifier</key>
-			<string>BA6B2375-E253-479C-88A8-418476DF8F83</string>
-		</dict>
-		<key>BEB12941-F3BF-42F6-8928-B2AA986AD398</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>BEB12941-F3BF-42F6-8928-B2AA986AD398.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>ComplexNumbers_POO project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ComplexNumbers_POO</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>timeStartedRecording</key>
-			<real>563140063.06618404</real>
-			<key>timeStoppedRecording</key>
-			<real>563140065.01364195</real>
-			<key>title</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>uniqueIdentifier</key>
-			<string>BEB12941-F3BF-42F6-8928-B2AA986AD398</string>
-		</dict>
-		<key>F62B655D-B8BE-4335-87A8-619D83CF8155</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>F62B655D-B8BE-4335-87A8-619D83CF8155.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>ComplexNumbers_POO project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ComplexNumbers_POO</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>timeStartedRecording</key>
-			<real>563131409.10619497</real>
-			<key>timeStoppedRecording</key>
-			<real>563131417.93953097</real>
-			<key>title</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>uniqueIdentifier</key>
-			<string>F62B655D-B8BE-4335-87A8-619D83CF8155</string>
-		</dict>
-		<key>FC1C8D00-1995-470F-B75F-E72A600FAEE8</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>FC1C8D00-1995-470F-B75F-E72A600FAEE8.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>ComplexNumbers_POO project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ComplexNumbers_POO</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>timeStartedRecording</key>
-			<real>563145529.69703603</real>
-			<key>timeStoppedRecording</key>
-			<real>563145531.52651</real>
-			<key>title</key>
-			<string>Debug ComplexNumbers_POO</string>
-			<key>uniqueIdentifier</key>
-			<string>FC1C8D00-1995-470F-B75F-E72A600FAEE8</string>
+			<string>DAA6BEFA-FC5E-4673-998A-4F5F57ECF00C</string>
 		</dict>
 	</dict>
 </dict>

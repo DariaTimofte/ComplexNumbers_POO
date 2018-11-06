@@ -24,6 +24,71 @@ Complex::Complex(double m_r, double m_im)
     m_imag = m_im;
 }
 
+Complex::Complex(std::string str)
+{
+    m_real = 0;
+    m_imag = 0;
+    int sign = 1;
+    bool hasReal = true, hasSign = false, hasImag = false;
+    if (str[0] == '-')
+    {
+        sign = -1;
+        hasSign = true;
+    }
+    if (str[0] == 'i' || str[1] == 'i')
+    {
+        hasReal = false;
+        hasImag = true;
+    }
+    unsigned long int start = 0;
+    unsigned long end = 0;
+    if (hasReal == true)
+    {
+        if (hasSign)
+            start = 1;
+            else
+                start = 0;
+        
+                end = str.length();
+                for (int i = start + 1; i < str.length(); i++)
+                {
+                    if (strchr("0123456789.", str[i]) == NULL)
+                    {
+                        end = i;
+                        break;
+                    }
+                }
+        
+        m_real = sign * std::stod(str.substr(start, end - start));
+        
+    }
+
+    if (hasReal && end < str.length())
+    {
+        if (str[end] == '-')
+            sign = -1;
+            else
+                sign = 1;
+                hasImag = true;
+                }
+
+    if (hasImag)
+    {
+        if (!hasReal)
+        {
+            if (hasSign)
+                start = 3;
+                else
+                    start = 2;
+                    }
+        else
+            start = end + 3;
+            m_imag = sign * std::stod(str.substr(start, str.length()-start));
+            }
+
+
+    }
+
 Complex::Complex(const Complex &c2) //Copy constructor
 {
     m_real = c2.m_real;

@@ -67,7 +67,7 @@ public:
     friend Complex operator / (const Complex &, const double &);
     friend Complex operator / (const double &, const Complex &);
     
-    friend Complex operator ^ (const Complex& , int &);
+    friend Complex operator ^ (const Complex& , int);
     
     // Unary overloaded operators
     
